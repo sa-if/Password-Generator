@@ -47,7 +47,7 @@ For support, email `saifislam23122005@gmail.com` or join `facebook` community.(�
 ## Usage/Examples 🎃
 
 
-To run this script of C++, you will need to follow these steps:
+<h2 align="ceter">To run this script of C++, you will need to follow these steps:</h2>
 
 - `Ensure that you have a C++ compiler installed on your system`
 - `Save the script to a file with a .cpp extension, such as password_generator.cpp`
@@ -55,19 +55,21 @@ To run this script of C++, you will need to follow these steps:
 - `Compile the script using the C++ compiler. For example, if you are using the GNU C++ compiler, you can use the following command:
   g++ password_generator.cpp -o password_generator`
 - `This will create an executable file called password_generator.`
-- `Run the executable file by typing ./password_generator and pressing Enter.
+- `Run the executable file by typing ./password_generator and pressing Enter.`
 - ` Enter the desired values and press Enter.`
 - `The program will then generate and print a password.💥💥`
   
-To run this script of Java, you will need to follow these steps:
+<h2 align="ceter">To run this script of Java, you will need to follow these steps:</h2>
+
 - `Import the java.util.Scanner, java.security.SecureRandom, and java.util.Arrays classes.`
 - `Create an instance of the PasswordGenerator class.`
 - `Call the generatePassword method on the PasswordGenerator instance, passing in the desired parameters for the password.`
 - `The generatePassword method will return a string that represents the generated password. You can store this string in a variable or use it as needed.`
 - Here is an example of how you might use this script:
-        `PasswordGenerator generator = new PasswordGenerator();
+        ``` java
+           PasswordGenerator generator = new PasswordGenerator();
            String password = generator.generatePassword(10, true, true, 2, 2);
-           System.out.println("Generated password: " + password);`
+           System.out.println("Generated password: " + password);
 
 
 
