@@ -67,7 +67,7 @@ For support, email `saifislam23122005@gmail.com` or join `facebook` community.(â
 - `Call the generatePassword method on the PasswordGenerator instance, passing in the desired parameters for the password.`
 - `The generatePassword method will return a string that represents the generated password. You can store this string in a variable or use it as needed.`
 - Here is an example of how you might use this script:
-      ![alt text](https://github.com/sa-if/Password-Generator/blob/main/Screenshot%202023-01-10%20114221.png)
+      ![alt text](https://github.com/sa-if/Password-Generator/blob/main/hi.png)
   
 
 
