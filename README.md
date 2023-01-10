@@ -85,7 +85,7 @@ Run the following command on PowerShell:
                String password = generator.generatePassword(10, true, true, 2, 2);
                System.out.println("Generated password: " + password);
                
-               ```
+             
 
   
 
