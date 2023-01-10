@@ -53,7 +53,7 @@ For support, email `saifislam23122005@gmail.com` or join `facebook` community.(â
 
 
 
-```python
+```C++
 Run the following command on PowerShell:
  1. Ensure that you have a C++ compiler installed on your system
  2. Save the script to a file with a .cpp extension, such as password_generator.cpp
@@ -68,6 +68,8 @@ Run the following command on PowerShell:
 ```
   
 <h4 align="ceter">To run this script of Java, you will need to follow these steps:</h4>
+
+```Java
 
 - `Import the java.util.Scanner, java.security.SecureRandom, and java.util.Arrays classes.`
 - `Create an instance of the PasswordGenerator class.`
