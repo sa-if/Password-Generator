@@ -62,12 +62,12 @@ To run this script of C++, you will need to follow these steps:
 To run this script of Java, you will need to follow these steps:
 - `Import the java.util.Scanner, java.security.SecureRandom, and java.util.Arrays classes.`
 - `Create an instance of the PasswordGenerator class.`
-- `Call the generatePassword method on the PasswordGenerator instance, passing in the desired parameters for the password.
+- `Call the generatePassword method on the PasswordGenerator instance, passing in the desired parameters for the password.`
 - `The generatePassword method will return a string that represents the generated password. You can store this string in a variable or use it as needed.`
 - Here is an example of how you might use this script:
-        ```PasswordGenerator generator = new PasswordGenerator();
-String password = generator.generatePassword(10, true, true, 2, 2);
-System.out.println("Generated password: " + password);```
+        `PasswordGenerator generator = new PasswordGenerator();
+           String password = generator.generatePassword(10, true, true, 2, 2);
+           System.out.println("Generated password: " + password);`
 
 
 
