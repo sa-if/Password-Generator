@@ -67,41 +67,7 @@ For support, email `saifislam23122005@gmail.com` or join `facebook` community.(â
 - `Call the generatePassword method on the PasswordGenerator instance, passing in the desired parameters for the password.`
 - `The generatePassword method will return a string that represents the generated password. You can store this string in a variable or use it as needed.`
 - Here is an example of how you might use this script:
-        ```java
-import javax.swing.*;
-import java.awt.BorderLayout;
-
-import org.fife.ui.rtextarea.*;
-import org.fife.ui.rsyntaxtextarea.*;
-
-public class TextEditorDemo extends JFrame {
-
-    public TextEditorDemo() {
-
-        JPanel cp = new JPanel(new BorderLayout());
-
-        RSyntaxTextArea textArea = new RSyntaxTextArea(20, 60);
-        textArea.setSyntaxEditingStyle(SyntaxConstants.SYNTAX_STYLE_JAVA);
-        textArea.setCodeFoldingEnabled(true);
-        RTextScrollPane sp = new RTextScrollPane(textArea);
-        cp.add(sp);
-
-        setContentPane(cp);
-        setTitle("Text Editor Demo");
-        setDefaultCloseOperation(EXIT_ON_CLOSE);
-        pack();
-        setLocationRelativeTo(null);
-
-    }
-
-    public static void main(String[] args) {
-        // Start all Swing applications on the EDT.
-        SwingUtilities.invokeLater(() -> new TextEditorDemo().setVisible(true));
-    }
-
-}
-```
-
+      ![alt text](http://url/to/img.png)
   
 
 
