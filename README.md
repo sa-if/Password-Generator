@@ -27,6 +27,7 @@ For support, email `saifislam23122005@gmail.com` or join `facebook` community.(�
 ## features 🙌🏻
 
 <h2 align="ceter">C++</h2>
+
 - `Generates a random password of a specified length using a given character set`
 - `Assigns a score to the password based on various criteria`
 - `Continues to generate new passwords until it finds one with a sufficiently high score`
