@@ -26,7 +26,7 @@ For support, email `saifislam23122005@gmail.com` or join `facebook` community.(â
 
 ## features ğŸ™ŒğŸ»
 
-<h2 align="ceter">C++</h2>
+<h4 align="ceter">C++</h4>
 
 - `Generates a random password of a specified length using a given character set`
 - `Assigns a score to the password based on various criteria`
@@ -34,7 +34,7 @@ For support, email `saifislam23122005@gmail.com` or join `facebook` community.(â
 - `Allows the user to specify the length and character set of the generated password at runtime`
 
 
-<h2 align="ceter">Java</h2>
+<h4 align="ceter">Java</h4>
 
 - `Generates a random password of specified length`
 - `Option to include special characters in the password`
@@ -47,7 +47,7 @@ For support, email `saifislam23122005@gmail.com` or join `facebook` community.(â
 ## Usage/Examples ğŸƒ
 
 
-<h2 align="ceter">To run this script of C++, you will need to follow these steps:</h2>
+<h4 align="ceter">To run this script of C++, you will need to follow these steps:</h4>
 
 - `Ensure that you have a C++ compiler installed on your system`
 - `Save the script to a file with a .cpp extension, such as password_generator.cpp`
@@ -59,18 +59,19 @@ For support, email `saifislam23122005@gmail.com` or join `facebook` community.(â
 - ` Enter the desired values and press Enter.`
 - `The program will then generate and print a password.ğŸ’¥ğŸ’¥`
   
-<h2 align="ceter">To run this script of Java, you will need to follow these steps:</h2>
+<h4 align="ceter">To run this script of Java, you will need to follow these steps:</h4>
 
 - `Import the java.util.Scanner, java.security.SecureRandom, and java.util.Arrays classes.`
 - `Create an instance of the PasswordGenerator class.`
 - `Call the generatePassword method on the PasswordGenerator instance, passing in the desired parameters for the password.`
 - `The generatePassword method will return a string that represents the generated password. You can store this string in a variable or use it as needed.`
 - Here is an example of how you might use this script:
-        ``` java
-           PasswordGenerator generator = new PasswordGenerator();
-           String password = generator.generatePassword(10, true, true, 2, 2);
-           System.out.println("Generated password: " + password);
+        ```java
+PasswordGenerator generator = new PasswordGenerator();
+String password = generator.generatePassword(10, true, true, 2, 2);
+System.out.println("Generated password: " + password);
 
+```
 
 
   
