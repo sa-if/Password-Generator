@@ -50,15 +50,22 @@ For support, email `saifislam23122005@gmail.com` or join `facebook` community.(�
 
 <h4 align="ceter">To run this script of C++, you will need to follow these steps:</h4>
 
-- `Ensure that you have a C++ compiler installed on your system`
-- `Save the script to a file with a .cpp extension, such as password_generator.cpp`
-- `Open a terminal and navigate to the directory where you saved the script`
-- `Compile the script using the C++ compiler. For example, if you are using the GNU C++ compiler, you can use the following command:
-  g++ password_generator.cpp -o password_generator`
-- `This will create an executable file called password_generator.`
-- `Run the executable file by typing ./password_generator and pressing Enter.`
-- ` Enter the desired values and press Enter.`
-- `The program will then generate and print a password.💥💥`
+
+
+
+```python
+Run the following command on PowerShell:
+ 1. Ensure that you have a C++ compiler installed on your system
+ 2. Save the script to a file with a .cpp extension, such as password_generator.cpp
+ 3. Open a terminal and navigate to the directory where you saved the script
+ 4. Compile the script using the C++ compiler. For example, if you are using the GNU C++ compiler, you can use the following command:
+    g++ password_generator.cpp -o password_generator
+ 5. This will create an executable file called password_generator.
+ 6. Run the executable file by typing ./password_generator and pressing Enter.
+ 7. Enter the desired values and press Enter.
+ 8. The program will then generate and print a password.💥💥
+
+```
   
 <h4 align="ceter">To run this script of Java, you will need to follow these steps:</h4>
 
