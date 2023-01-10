@@ -79,7 +79,7 @@ Run the following command on PowerShell:
 
 
 
-`Here is an example of how you might use this script:`
+## Here is an example of how you might use this script:
       ![alt text](https://github.com/sa-if/Password-Generator/blob/main/hi.png)
   
 
