@@ -5,12 +5,12 @@
 `
 
 
-## Authors
+## Authors 👦🏻
 
 - [@saifislam](https://www.github.com/sa-if)
 
 
-## Used By
+## Used By 🧑‍🤝‍🧑
 
 This project is used by the following individual:
 
@@ -19,11 +19,11 @@ This project is used by the following individual:
 
 
 
-## Support
+## Support 💁🏻‍♂️
 
 For support, email `saifislam23122005@gmail.com` or join `facebook` community.(●'◡'●)
 
-## features
+## features 🙌🏻
 
 
 - `Generates a random password of a specified length using a given character set`
@@ -33,7 +33,7 @@ For support, email `saifislam23122005@gmail.com` or join `facebook` community.(�
 
 
 
-## Usage/Examples
+## Usage/Examples 🎃
 
 
 To run this script, you will need to follow these steps:
