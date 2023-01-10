@@ -80,7 +80,13 @@ Run the following command on PowerShell:
 
 
 ## Here is an example of how you might use this script:
-      ![alt text](https://github.com/sa-if/Password-Generator/blob/main/hi.png)
+      ```java 
+               PasswordGenerator generator = new PasswordGenerator();
+               String password = generator.generatePassword(10, true, true, 2, 2);
+               System.out.println("Generated password: " + password);
+               
+               ```
+
   
 
 
